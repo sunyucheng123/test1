@@ -1,2 +1,6 @@
-class a{
+package test;
+
+public class Test2{
+
+
 }
